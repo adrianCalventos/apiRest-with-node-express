@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://nodeJs/frontend/styles/app.css"],"names":[],"mappings":"AAAA;IACI,iBAAiB;AACrB,C","file":"css/bundle.css","sourcesContent":["body{\r\n    background: green;\r\n}"],"sourceRoot":""}
